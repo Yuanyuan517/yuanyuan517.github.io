@@ -22,10 +22,6 @@ with Claudia Archetti and Ivana Ljubić
 with Stefano Carabelli, Edoardo Fadda, Daniele Manerba, Roberto Tadei, and Olivier Terzo  
 *The International Journal of Advanced Manufacturing Technology*, 110, 2445–2463, 2020. [DOI](https://doi.org/10.1007/s00170-020-05850-5)
 
-**Reinforcement Learning Algorithms for Online Single-Machine Scheduling**  
-with Edoardo Fadda, Daniele Manerba, Roberto Tadei, and Olivier Terzo  
-*Proceedings of the 2020 Federated Conference on Computer Science and Information Systems*, 277–283, 2020. [DOI](https://doi.org/10.15439/2020F100)
-
 **Sustainable and De-Stressed International Supply-Chains Through the SYNCHRO-NET Approach**  
 with Riccardo Giusti, Chiara Iorfida, Daniele Manerba, Stefano Musso, Guido Perboli, Roberto Tadei, and Shuai Yuan  
 *Sustainability*, 11(4), 1083, 2019. [DOI](https://doi.org/10.3390/su11041083)
