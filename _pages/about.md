@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Montréal, Québec, Canada</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -30,3 +30,9 @@ I am a postdoctoral researcher at HEC Montréal and GERAD, where I work with Jea
 ## Research
 
 My research studies how firms can design operational policies under uncertainty while accounting for customer behavior and operational constraints. I develop optimization- and learning-based methods for these settings, with recent applications to same-day delivery, entrepreneurial operations, and experiential services.
+
+## [Selected Research](/research/)
+
+<div class="publications">
+{% bibliography --group_by none --query @*[selected=true]* %}
+</div>
