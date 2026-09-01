@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher at <a href="https://www.hec.ca/en/">HEC Montr�
 
 profile:
   align: right
-  image: prof_pic.png
+  image: yuanyuan_li.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Montréal, Québec, Canada</p>
