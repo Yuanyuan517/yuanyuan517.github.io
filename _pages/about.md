@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher at <a href="https://www.hec.ca/en/">HEC Montréal</a> and <a href="https://www.gerad.ca/en/">GERAD</a>
+#subtitle: Postdoctoral Researcher at <a href="https://www.hec.ca/en/">HEC Montréal</a> and <a href="https://www.gerad.ca/en/">GERAD</a>
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at HEC Montréal and GERAD, advised by Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger. I received my PhD in Operations Research and Management from ESSEC Business School, where I was advised by Claudia Archetti, Ivana Ljubić, and Felix Papier.
+I am a postdoctoral researcher at HEC Montréal and GERAD, where I work with Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger. I received my PhD in Operations Research and Management from ESSEC Business School under the supervision of Claudia Archetti, Ivana Ljubić, and Felix Papier.
 
 ## Research
 
