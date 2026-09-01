@@ -32,7 +32,6 @@ I am a postdoctoral researcher at HEC Montréal and GERAD, where I work with Jea
 My research studies how firms can design operational policies under uncertainty while accounting for customer behavior and operational constraints. I develop optimization- and learning-based methods for these settings, with recent applications to same-day delivery, entrepreneurial operations, and experiential services.
 
 ## [Selected Research](/research/)
-
 <div class="publications">
 {% bibliography --group_by none --query @*[selected=true]* %}
 </div>
