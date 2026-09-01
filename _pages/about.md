@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at HEC Montréal and GERAD, where I work with Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger. I received my PhD in Operations Research and Management from ESSEC Business School under the supervision of Claudia Archetti, Ivana Ljubić, and Felix Papier.
+I am a postdoctoral researcher at HEC Montréal and GERAD, where I work with Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger. I received my PhD in Operations Research and Operations Management from ESSEC Business School under the supervision of Claudia Archetti, Ivana Ljubić, and Felix Papier.
 
 ## Research
 
