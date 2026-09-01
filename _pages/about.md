@@ -29,6 +29,6 @@ I am a postdoctoral researcher at HEC Montréal and GERAD, where I work with Jea
 
 ## Research
 
-My research develops optimization and learning methods for sequential decision-making under uncertainty. I study settings in which firms must account for customer behavior, operational constraints, and large state-action spaces, with current applications in same-day delivery, entrepreneurial operations, and experiential services.
+My research studies how firms can design operational policies under uncertainty while accounting for customer behavior and operational constraints. I develop optimization- and learning-based methods for these settings, with recent applications to same-day delivery, entrepreneurial operations, and experiential services.
 
-My work draws on operations research, reinforcement learning, and data-driven decision-making. Please see my [research page](/research/) for publications and working papers.
+#See my Research page for publications and working papers.
