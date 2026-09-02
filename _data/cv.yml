@@ -15,8 +15,8 @@ cv:
     - network: GitHub
       username: Yuanyuan517
 
-  sections:
-    Experience:
+    sections:
+    Appointment:
       - company: HEC Montréal and GERAD
         position: Postdoctoral Researcher
         location: Montréal, Canada
@@ -24,45 +24,15 @@ cv:
         end_date: present
         summary: Advised by Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger.
 
-      - company: LINKS Foundation
-        position: Researcher
-        location: Italy
-        start_date: 2018-03
-        end_date: 2020-08
-        summary: Developed optimization and scheduling methods for manufacturing and contributed to project management for the EU Horizon 2020 LEXIS project.
-        highlights:
-          - Industry 4.0, mathematical modeling, metaheuristics, scheduling, and programming.
-
-      - company: Fraunhofer Institute for Transportation and Infrastructure Systems IVI
-        position: Research Intern
-        location: Germany
-        start_date: 2017-04
-        end_date: 2017-10
-        summary: Conducted risk analysis and predictive modeling for the EU Horizon 2020 SYNCHRO-NET project.
-
-      - company: Polytechnic University of Turin
-        position: Lab Assistant
-        location: Italy
-        start_date: 2016-09
-        end_date: 2017-01
-        summary: Supported database management systems laboratory sessions.
-
     Education:
       - institution: ESSEC Business School
         location: France
-        area: Operations Research and Management
+        area: Operations Research and Operations Management
         degree: PhD
         start_date: 2020-08
         end_date: 2025-07
         highlights:
           - Advised by Claudia Archetti, Ivana Ljubić, and Felix Papier.
-
-      - institution: Nanyang Technological University, Nanyang Business School
-        location: Singapore
-        area: Operations Management (visiting student)
-        degree: PhD
-        start_date: 2024-02
-        end_date: 2024-08
 
       - institution: Polytechnic University of Turin
         location: Italy
@@ -76,7 +46,24 @@ cv:
         degree: BEng
         date: 2015
 
-    Publications:
+    "Publications and Preprints":
+      - title: Sprint or Walk? Managing Start-up Growth Before Facility Investments
+        authors:
+          - "*Yuanyuan Li*"
+          - Riccardo Mogre
+          - Felix Papier
+        journal: Working paper
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761740
+
+      - title: "Element Selection and Routing for Experiential Service Design: Experience Formation and Stochastic Optimization"
+        authors:
+          - Qiuwei Guo
+          - "*Yuanyuan Li*"
+          - Yifu Li
+          - Lindong Liu
+        journal: Working paper
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7223798
+
       - title: Emerging Optimization Problems for Distribution in Same-day Delivery
         authors:
           - "*Yuanyuan Li*"
@@ -95,79 +82,51 @@ cv:
         date: 2024
         doi: 10.1287/trsc.2022.0366
 
-      - title: Sprint or Walk? Managing Start-up Growth Before Facility Investments
-        authors:
-          - "*Yuanyuan Li*"
-          - Riccardo Mogre
-          - Felix Papier
-        journal: Working paper
-        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761740
 
-      - title: Same-day Delivery with Pickup Stations
-        authors:
-          - Geoffrey Chua
-          - "*Yuanyuan Li*"
-          - Claudia Archetti
-        journal: Work in progress
+    "Professional Experience":
+      - company: LINKS Foundation
+        position: Researcher
+        location: Italy
+        start_date: 2018-03
+        end_date: 2020-08
+        summary: Developed optimization and scheduling methods for manufacturing and contributed to project management for the EU Horizon 2020 LEXIS project.
+        highlights:
+          - Industry 4.0, mathematical modeling, metaheuristics, scheduling, and programming.
 
-      - title: Machine Learning and Optimization for Production Rescheduling in Industry 4.0
-        authors:
-          - "*Yuanyuan Li*"
-          - Stefano Carabelli
-          - Edoardo Fadda
-          - Daniele Manerba
-          - Roberto Tadei
-          - Olivier Terzo
-        journal: The International Journal of Advanced Manufacturing Technology, 110, 2445–2463
-        date: 2020
-        doi: 10.1007/s00170-020-05850-5
+      - company: Fraunhofer Institute for Transportation and Infrastructure Systems IVI
+        position: Research Intern
+        location: Germany
+        start_date: 2017-04
+        end_date: 2017-10
+        summary: Conducted risk analysis and predictive modeling for the EU Horizon 2020 SYNCHRO-NET project.
 
-      - title: Reinforcement Learning Algorithms for Online Single-Machine Scheduling
-        authors:
-          - "*Yuanyuan Li*"
-          - Edoardo Fadda
-          - Daniele Manerba
-          - Roberto Tadei
-          - Olivier Terzo
-        journal: FedCSIS 2020, 277–283
-        date: 2020
-        doi: 10.15439/2020F100
-
-      - title: Sustainable and De-Stressed International Supply-Chains Through the SYNCHRO-NET Approach
-        authors:
-          - Riccardo Giusti
-          - Chiara Iorfida
-          - "*Yuanyuan Li*"
-          - Daniele Manerba
-          - Stefano Musso
-          - Guido Perboli
-          - Roberto Tadei
-          - Shuai Yuan
-        journal: Sustainability, 11(4), 1083
-        date: 2019
-        doi: 10.3390/su11041083
-
-    Selected Presentations:
+    "Selected Presentations":
       - bullet: "**Sprint or Walk? Managing Start-up Growth Before Facility Investments** — USTC (2025); INFORMS Annual Meeting (2024); POMS Annual Conference (2024); IESEG–ESSEC–University of Cologne Operations Research Camp (2024); ESSEC Student Research Seminar (2023)."
+
       - bullet: "**Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates** — POM China (2023); EURO (2022); ESSEC Student Research Seminar (2022)."
+
       - bullet: "**Machine Learning Applications in Optimization: Job-Shop Scheduling in Industry 4.0** — ODS (2019); MIM (2019)."
 
-    Scholarship:
+    "Scholarships and Awards":
       - label: "2016"
         details: "**Compagnia di San Paolo–Politecnico Project Scholarship**, Polytechnic University of Turin. Merit scholarship awarded annually to 16 international students in Engineering or Architecture."
 
-    Technical Skills:
+    "Technical Skills":
       - label: Programming
-        details: Java, Python, OPL, C, SQL, HTML
+        details: Python, Java, OPL, C, SQL, HTML
+
       - label: Optimization and Data Tools
         details: CPLEX, Gurobi, Eclipse, MySQL
 
-    Language Proficiency:
+    "Language Proficiency":
       - label: Chinese
         details: Native
+
       - label: English
         details: Fluent
+
       - label: Italian
         details: Basic
+
       - label: French
         details: Basic
