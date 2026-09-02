@@ -100,20 +100,47 @@ cv:
         end_date: 2017-10
         summary: Conducted risk analysis and predictive modeling for the EU Horizon 2020 SYNCHRO-NET project.
 
-    "Selected Presentations":
+        "Teaching Experience":
+      - company: ESSEC Business School
+        position: Instructor — Mathematics I for Economics and Finance
+        location: France
+        date: 2024
+        summary: Undergraduate core course; taught two sections of 70 students each.
+
+      - company: ESSEC Business School
+        position: Instructor — Excel Skills (Spreadsheet Modeling)
+        location: Singapore
+        date: 2023
+        summary: Undergraduate elective course; taught two sections with 47 and 51 students.
+
+      - company: ESSEC Business School
+        position: Instructor — Business Simulation Game
+        location: Singapore
+        date: 2023
+        summary: Led an online business simulation for 34 undergraduate students focused on global business operations.
+
+      - company: ESSEC Business School
+        position: Teaching Assistant — Decision Analytics
+        location: France
+        date: 2022
+        summary: Led laboratory sessions and assessed student reports for a Master in Management elective course.
+
+      - company: Polytechnic University of Turin
+        position: Teaching Assistant — Database Management Systems
+        location: Italy
+        date: 2016
+        summary: Led laboratory sessions on data analysis using commercial and open-source software.
+
+    "Selected Talks":
       - bullet: "**Sprint or Walk? Managing Start-up Growth Before Facility Investments** — USTC (2025); INFORMS Annual Meeting (2024); POMS Annual Conference (2024); IESEG–ESSEC–University of Cologne Operations Research Camp (2024); ESSEC Student Research Seminar (2023)."
 
       - bullet: "**Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates** — POM China (2023); EURO (2022); ESSEC Student Research Seminar (2022)."
 
       - bullet: "**Machine Learning Applications in Optimization: Job-Shop Scheduling in Industry 4.0** — ODS (2019); MIM (2019)."
 
-    "Scholarships and Awards":
-      - label: "2016"
-        details: "**Compagnia di San Paolo–Politecnico Project Scholarship**, Polytechnic University of Turin. Merit scholarship awarded annually to 16 international students in Engineering or Architecture."
-
     "Technical Skills":
       - label: Programming
-        details: Python, Java, OPL, C, SQL, HTML
+        details: Python, Java, C, SQL
 
       - label: Optimization and Data Tools
         details: CPLEX, Gurobi, Eclipse, MySQL
