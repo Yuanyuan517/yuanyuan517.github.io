@@ -138,12 +138,16 @@ cv:
 
       - bullet: "**Machine Learning Applications in Optimization: Job-Shop Scheduling in Industry 4.0** — ODS (2019); MIM (2019)."
 
-    "Technical Skills":
-      - label: Programming
-        details: Python, Java, C, SQL
+    "Reviewing Activities":
+      - label: Ad Hoc Reviewer
+        details: "*Transportation Science*; *Production and Operations Management*; *European Journal of Operational Research*; *Transportation Research Part C: Emerging Technologies*; *Transportation Research Part E: Logistics and Transportation Review*; and *Networks*."
 
-      - label: Optimization and Data Tools
-        details: CPLEX, Gurobi, Eclipse, MySQL
+        # "Technical Skills":
+    #   - label: Programming
+    #     details: Python, Java, C, SQL
+    #
+    #   - label: Optimization and Data Tools
+    #     details: CPLEX, Gurobi, Eclipse, MySQL
 
     "Language Proficiency":
       - label: Chinese
