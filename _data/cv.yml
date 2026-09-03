@@ -46,7 +46,7 @@ cv:
         degree: BEng
         date: 2015
 
-        "Publications and Preprints":
+    "Publications and Preprints":
       - bullet: >-
           ***Sprint or Walk? Managing Start-up Growth Before Facility Investments***,
           with Riccardo Mogre and Felix Papier. Working paper.
@@ -87,35 +87,29 @@ cv:
         summary: Conducted risk analysis and predictive modeling for the EU Horizon 2020 SYNCHRO-NET project.
 
     "Teaching Experience":
-      - company: ESSEC Business School
-        position: Instructor — Mathematics I for Economics and Finance
-        location: France
-        date: 2024
-        summary: Undergraduate core course; taught two sections of 70 students each.
+      - bullet: >-
+          **Instructor — Mathematics I for Economics and Finance**, ESSEC Business School,
+          France (2024). Undergraduate core course; taught two sections of 70 students each.
 
-      - company: ESSEC Business School
-        position: Instructor — Excel Skills (Spreadsheet Modeling)
-        location: Singapore
-        date: 2023
-        summary: Undergraduate elective course; taught two sections with 47 and 51 students.
+      - bullet: >-
+          **Instructor — Excel Skills (Spreadsheet Modeling)**, ESSEC Business School,
+          Singapore (2023). Undergraduate elective course; taught two sections with
+          47 and 51 students.
 
-      - company: ESSEC Business School
-        position: Instructor — Business Simulation Game
-        location: Singapore
-        date: 2023
-        summary: Led an online business simulation for 34 undergraduate students focused on global business operations.
+      - bullet: >-
+          **Instructor — Business Simulation Game**, ESSEC Business School,
+          Singapore (2023). Led an online business simulation for 34 undergraduate
+          students focused on global business operations.
 
-      - company: ESSEC Business School
-        position: Teaching Assistant — Decision Analytics
-        location: France
-        date: 2022
-        summary: Led laboratory sessions and assessed student reports for a Master in Management elective course.
+      - bullet: >-
+          **Teaching Assistant — Decision Analytics**, ESSEC Business School,
+          France (2022). Led laboratory sessions and assessed student reports for
+          a Master in Management elective course.
 
-      - company: Polytechnic University of Turin
-        position: Teaching Assistant — Database Management Systems
-        location: Italy
-        date: 2016
-        summary: Led laboratory sessions on data analysis using commercial and open-source software.
+      - bullet: >-
+          **Teaching Assistant — Database Management Systems**, Polytechnic University
+          of Turin, Italy (2016). Led laboratory sessions on data analysis using
+          commercial and open-source software.
 
     "Selected Talks":
       - bullet: "**Sprint or Walk? Managing Start-up Growth Before Facility Investments** — USTC (2025); INFORMS Annual Meeting (2024); POMS Annual Conference (2024); IESEG–ESSEC–University of Cologne Operations Research Camp (2024); ESSEC Student Research Seminar (2023)."
