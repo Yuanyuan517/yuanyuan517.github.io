@@ -8,21 +8,22 @@ cv:
   social_networks:
     - network: Google Scholar
       username: pbQo5aYAAAAJ
+
     - network: ORCID
       username: 0000-0001-6721-9128
+
     - network: LinkedIn
       username: yuanyuan-li-55928a103
+
     - network: GitHub
       username: Yuanyuan517
 
   sections:
     Appointment:
-      - company: HEC Montréal and GERAD
-        position: Postdoctoral Researcher
-        location: Montréal, Canada
-        start_date: 2025-09
-        end_date: present
-        summary: Advised by Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger.
+      - bullet: >-
+          **Postdoctoral Researcher**, HEC Montréal and GERAD, Montréal, Canada
+          (September 2025–present). Advised by Jean-François Cordeau,
+          Yossiri Adulyasak, and Emma Frejinger.
 
     Education:
       - institution: ESSEC Business School
@@ -53,7 +54,8 @@ cv:
           [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761740)
 
       - bullet: >-
-          ***Element Selection and Routing for Experiential Service Design: Experience Formation and Stochastic Optimization***,
+          ***Element Selection and Routing for Experiential Service Design:
+          Experience Formation and Stochastic Optimization***,
           with Qiuwei Guo, Yifu Li, and Lindong Liu. Working paper.
           [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7223798)
 
@@ -64,65 +66,72 @@ cv:
           [DOI](https://doi.org/10.1016/j.cor.2025.107105)
 
       - bullet: >-
-          ***Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates***,
+          ***Reinforcement Learning Approaches for the Orienteering Problem with
+          Stochastic and Dynamic Release Dates***,
           with Claudia Archetti and Ivana Ljubić.
           *Transportation Science*, 58(5), 1143–1165, 2024.
           [DOI](https://doi.org/10.1287/trsc.2022.0366)
 
-    "Experience":
-      - company: LINKS Foundation
-        position: Researcher
-        location: Italy
-        start_date: 2018-03
-        end_date: 2020-08
-        summary: Developed optimization and scheduling methods for manufacturing and contributed to project management for the EU Horizon 2020 LEXIS project.
-        highlights:
-          - Industry 4.0, mathematical modeling, metaheuristics, scheduling, and programming.
+    "Professional Experience":
+      - bullet: >-
+          **Researcher**, LINKS Foundation, Italy (March 2018–August 2020).
+          Developed optimization and scheduling methods for manufacturing and
+          contributed to project management for the EU Horizon 2020 LEXIS project.
 
-      - company: Fraunhofer Institute for Transportation and Infrastructure Systems IVI
-        position: Research Intern
-        location: Germany
-        start_date: 2017-04
-        end_date: 2017-10
-        summary: Conducted risk analysis and predictive modeling for the EU Horizon 2020 SYNCHRO-NET project.
+      - bullet: >-
+          **Research Intern**, Fraunhofer Institute for Transportation and
+          Infrastructure Systems IVI, Germany (April–October 2017).
+          Conducted risk analysis and predictive modeling for the EU Horizon 2020
+          SYNCHRO-NET project.
 
     "Teaching Experience":
       - bullet: >-
-          **Instructor — Mathematics I for Economics and Finance**, ESSEC Business School,
-          France (2024). Undergraduate core course; taught two sections of 70 students each.
+          **Instructor — Mathematics I for Economics and Finance**,
+          ESSEC Business School, France (2024). Undergraduate core course;
+          taught two sections of 70 students each.
 
       - bullet: >-
-          **Instructor — Excel Skills (Spreadsheet Modeling)**, ESSEC Business School,
-          Singapore (2023). Undergraduate elective course; taught two sections with
-          47 and 51 students.
+          **Instructor — Excel Skills (Spreadsheet Modeling)**,
+          ESSEC Business School, Singapore (2023). Undergraduate elective course;
+          taught two sections with 47 and 51 students.
 
       - bullet: >-
-          **Instructor — Business Simulation Game**, ESSEC Business School,
-          Singapore (2023). Led an online business simulation for 34 undergraduate
-          students focused on global business operations.
+          **Instructor — Business Simulation Game**,
+          ESSEC Business School, Singapore (2023). Led an online business simulation
+          for 34 undergraduate students focused on global business operations.
 
       - bullet: >-
-          **Teaching Assistant — Decision Analytics**, ESSEC Business School,
-          France (2022). Led laboratory sessions and assessed student reports for
-          a Master in Management elective course.
+          **Teaching Assistant — Decision Analytics**,
+          ESSEC Business School, France (2022). Led laboratory sessions and assessed
+          student reports for a Master in Management elective course.
 
       - bullet: >-
-          **Teaching Assistant — Database Management Systems**, Polytechnic University
-          of Turin, Italy (2016). Led laboratory sessions on data analysis using
-          commercial and open-source software.
+          **Teaching Assistant — Database Management Systems**,
+          Polytechnic University of Turin, Italy (2016). Led laboratory sessions
+          on data analysis using commercial and open-source software.
 
     "Selected Talks":
-      - bullet: "**Sprint or Walk? Managing Start-up Growth Before Facility Investments** — USTC (2025); INFORMS Annual Meeting (2024); POMS Annual Conference (2024); IESEG–ESSEC–University of Cologne Operations Research Camp (2024); ESSEC Student Research Seminar (2023)."
+      - bullet: >-
+          **Sprint or Walk? Managing Start-up Growth Before Facility Investments** —
+          USTC (2025); INFORMS Annual Meeting (2024); POMS Annual Conference (2024);
+          IESEG–ESSEC–University of Cologne Operations Research Camp (2024);
+          ESSEC Student Research Seminar (2023).
 
-      - bullet: "**Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates** — POM China (2023); EURO (2022); ESSEC Student Research Seminar (2022)."
+      - bullet: >-
+          **Reinforcement Learning Approaches for the Orienteering Problem with
+          Stochastic and Dynamic Release Dates** —
+          POM China (2023); EURO (2022); ESSEC Student Research Seminar (2022).
 
-      - bullet: "**Machine Learning Applications in Optimization: Job-Shop Scheduling in Industry 4.0** — ODS (2019); MIM (2019)."
+      - bullet: >-
+          **Machine Learning Applications in Optimization:
+          Job-Shop Scheduling in Industry 4.0** —
+          ODS (2019); MIM (2019).
 
     "Reviewing Activities":
       - label: Ad Hoc Reviewer
         details: "*Transportation Science*; *Production and Operations Management*; *European Journal of Operational Research*; *Transportation Research Part C: Emerging Technologies*; *Transportation Research Part E: Logistics and Transportation Review*; and *Networks*."
 
-        # "Technical Skills":
+    # "Technical Skills":
     #   - label: Programming
     #     details: Python, Java, C, SQL
     #
