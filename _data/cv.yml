@@ -15,7 +15,7 @@ cv:
     - network: GitHub
       username: Yuanyuan517
 
-    sections:
+  sections:
     Appointment:
       - company: HEC Montréal and GERAD
         position: Postdoctoral Researcher
