@@ -46,42 +46,28 @@ cv:
         degree: BEng
         date: 2015
 
-    "Publications and Preprints":
-      - title: Sprint or Walk? Managing Start-up Growth Before Facility Investments
-        authors:
-          - "*Yuanyuan Li*"
-          - Riccardo Mogre
-          - Felix Papier
-        journal: Working paper
-        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761740
+        "Publications and Preprints":
+      - bullet: >-
+          ***Sprint or Walk? Managing Start-up Growth Before Facility Investments***,
+          with Riccardo Mogre and Felix Papier. Working paper.
+          [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761740)
 
-      - title: "Element Selection and Routing for Experiential Service Design: Experience Formation and Stochastic Optimization"
-        authors:
-          - Qiuwei Guo
-          - "*Yuanyuan Li*"
-          - Yifu Li
-          - Lindong Liu
-        journal: Working paper
-        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7223798
+      - bullet: >-
+          ***Element Selection and Routing for Experiential Service Design: Experience Formation and Stochastic Optimization***,
+          with Qiuwei Guo, Yifu Li, and Lindong Liu. Working paper.
+          [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7223798)
 
-      - title: Emerging Optimization Problems for Distribution in Same-day Delivery
-        authors:
-          - "*Yuanyuan Li*"
-          - Claudia Archetti
-          - Ivana Ljubić
-        journal: Computers & Operations Research, 182, 107105
-        date: 2025
-        doi: 10.1016/j.cor.2025.107105
+      - bullet: >-
+          ***Emerging Optimization Problems for Distribution in Same-day Delivery***,
+          with Claudia Archetti and Ivana Ljubić.
+          *Computers & Operations Research*, 182, 107105, 2025.
+          [DOI](https://doi.org/10.1016/j.cor.2025.107105)
 
-      - title: Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates
-        authors:
-          - "*Yuanyuan Li*"
-          - Claudia Archetti
-          - Ivana Ljubić
-        journal: Transportation Science, 58(5), 1143–1165
-        date: 2024
-        doi: 10.1287/trsc.2022.0366
-
+      - bullet: >-
+          ***Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates***,
+          with Claudia Archetti and Ivana Ljubić.
+          *Transportation Science*, 58(5), 1143–1165, 2024.
+          [DOI](https://doi.org/10.1287/trsc.2022.0366)
 
     "Experience":
       - company: LINKS Foundation
@@ -100,7 +86,7 @@ cv:
         end_date: 2017-10
         summary: Conducted risk analysis and predictive modeling for the EU Horizon 2020 SYNCHRO-NET project.
 
-      "Teaching Experience":
+    "Teaching Experience":
       - company: ESSEC Business School
         position: Instructor — Mathematics I for Economics and Finance
         location: France
